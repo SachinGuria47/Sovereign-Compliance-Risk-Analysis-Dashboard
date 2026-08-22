@@ -1,0 +1,421 @@
+Country Name,Country Code,Year,Region,Income_Group,Control_of_Corruption,Rule_of_Law,Regulatory_Quality,Political_Stability,Governance_Avg,Composite_Risk_Score,Risk_Tier,GDP_per_Capita_USD
+Argentina,ARG,2013,Latin America & Caribbean,Upper middle income,37.38,47.05,41.69,66.45,48.14,51.86,Medium Risk,12963.68
+Argentina,ARG,2014,Latin America & Caribbean,Upper middle income,34.37,44.4,38.89,65.67,45.83,54.17,Medium Risk,12233.14
+Argentina,ARG,2015,Latin America & Caribbean,Upper middle income,34.8,48.92,42.29,65.37,47.84,52.16,Medium Risk,13679.63
+Argentina,ARG,2016,Latin America & Caribbean,Upper middle income,43.41,52.89,50.88,69.2,54.1,45.9,Medium Risk,12699.96
+Argentina,ARG,2017,Latin America & Caribbean,Upper middle income,44.25,54.0,52.96,69.98,55.3,44.7,Medium Risk,14532.5
+Argentina,ARG,2018,Latin America & Caribbean,Upper middle income,47.74,53.48,51.86,67.95,55.26,44.74,Medium Risk,11752.8
+Argentina,ARG,2019,Latin America & Caribbean,Upper middle income,46.14,51.15,47.78,66.87,52.98,47.02,Medium Risk,9955.97
+Argentina,ARG,2020,Latin America & Caribbean,Upper middle income,45.13,51.96,46.23,66.84,52.54,47.46,Medium Risk,8535.6
+Argentina,ARG,2021,Latin America & Caribbean,Upper middle income,41.23,51.73,45.65,67.47,51.52,48.48,Medium Risk,10738.02
+Argentina,ARG,2022,Latin America & Caribbean,Upper middle income,40.97,51.95,45.73,66.88,51.38,48.62,Medium Risk,13962.19
+Argentina,ARG,2023,Latin America & Caribbean,Upper middle income,40.69,52.87,46.87,65.54,51.49,48.51,Medium Risk,14261.85
+Argentina,ARG,2024,Latin America & Caribbean,Upper middle income,41.26,52.64,51.16,62.99,52.01,47.99,Medium Risk,13969.78
+Australia,AUS,2013,East Asia & Pacific,High income,82.87,85.12,84.52,82.23,83.69,16.31,Low Risk,68476.68
+Australia,AUS,2014,East Asia & Pacific,High income,85.57,86.78,82.41,83.31,84.52,15.48,Low Risk,62817.21
+Australia,AUS,2015,East Asia & Pacific,High income,85.39,86.53,82.3,79.62,83.46,16.54,Low Risk,56970.36
+Australia,AUS,2016,East Asia & Pacific,High income,84.18,86.72,83.47,82.19,84.14,15.86,Low Risk,50084.44
+Australia,AUS,2017,East Asia & Pacific,High income,84.17,84.91,83.66,79.27,83.0,17.0,Low Risk,54117.55
+Australia,AUS,2018,East Asia & Pacific,High income,83.65,85.12,83.7,81.0,83.37,16.63,Low Risk,57410.17
+Australia,AUS,2019,East Asia & Pacific,High income,84.02,85.09,83.99,80.34,83.36,16.64,Low Risk,55194.76
+Australia,AUS,2020,East Asia & Pacific,High income,80.32,83.68,82.75,81.03,81.94,18.06,Low Risk,51983.45
+Australia,AUS,2021,East Asia & Pacific,High income,81.8,83.99,83.03,80.48,82.32,17.68,Low Risk,60758.9
+Australia,AUS,2022,East Asia & Pacific,High income,82.85,82.3,83.26,81.29,82.42,17.58,Low Risk,65169.52
+Australia,AUS,2023,East Asia & Pacific,High income,84.41,82.84,83.46,81.7,83.1,16.9,Low Risk,65058.38
+Australia,AUS,2024,East Asia & Pacific,High income,85.34,82.27,82.03,79.44,82.27,17.73,Low Risk,64609.99
+Bangladesh,BGD,2013,South Asia,Lower middle income,24.93,40.19,39.89,35.63,35.16,64.84,Medium Risk,958.26
+Bangladesh,BGD,2014,South Asia,Lower middle income,23.88,42.3,40.72,47.94,38.71,61.29,Medium Risk,1094.46
+Bangladesh,BGD,2015,South Asia,Lower middle income,26.0,42.22,42.61,43.15,38.49,61.51,Medium Risk,1224.39
+Bangladesh,BGD,2016,South Asia,Lower middle income,26.26,41.36,42.89,42.98,38.37,61.63,Medium Risk,1649.28
+Bangladesh,BGD,2017,South Asia,Lower middle income,26.35,41.06,43.14,43.19,38.44,61.56,Medium Risk,1811.08
+Bangladesh,BGD,2018,South Asia,Lower middle income,25.66,41.31,42.47,48.38,39.46,60.54,Medium Risk,1965.24
+Bangladesh,BGD,2019,South Asia,Lower middle income,25.58,40.75,40.83,48.87,39.01,60.99,Medium Risk,2129.8
+Bangladesh,BGD,2020,South Asia,Lower middle income,26.07,41.53,40.76,48.55,39.23,60.77,Medium Risk,2248.85
+Bangladesh,BGD,2021,South Asia,Lower middle income,25.73,40.19,41.12,47.9,38.73,61.27,Medium Risk,2482.85
+Bangladesh,BGD,2022,South Asia,Lower middle income,24.0,40.21,40.29,47.18,37.92,62.08,Medium Risk,2716.49
+Bangladesh,BGD,2023,South Asia,Lower middle income,23.59,41.44,40.65,48.2,38.47,61.53,Medium Risk,2551.02
+Bangladesh,BGD,2024,South Asia,Lower middle income,25.55,40.44,39.88,40.9,36.69,63.31,Medium Risk,2593.42
+Brazil,BRA,2013,Latin America & Caribbean,Upper middle income,46.62,54.65,56.91,59.65,54.46,45.54,Medium Risk,12458.89
+Brazil,BRA,2014,Latin America & Caribbean,Upper middle income,43.09,54.52,54.29,61.77,53.42,46.58,Medium Risk,12274.99
+Brazil,BRA,2015,Latin America & Caribbean,Upper middle income,40.74,53.09,53.34,57.42,51.15,48.85,Medium Risk,8936.2
+Brazil,BRA,2016,Latin America & Caribbean,Upper middle income,40.43,54.41,53.35,56.9,51.27,48.73,Medium Risk,8836.29
+Brazil,BRA,2017,Latin America & Caribbean,Upper middle income,38.35,52.13,53.19,55.61,49.82,50.18,Medium Risk,10080.51
+Brazil,BRA,2018,Latin America & Caribbean,Upper middle income,39.6,50.05,51.01,54.87,48.89,51.11,Medium Risk,9300.66
+Brazil,BRA,2019,Latin America & Caribbean,Upper middle income,40.31,50.32,53.29,53.56,49.37,50.63,Medium Risk,9029.83
+Brazil,BRA,2020,Latin America & Caribbean,Upper middle income,41.03,50.22,52.47,58.59,50.58,49.42,Medium Risk,7074.19
+Brazil,BRA,2021,Latin America & Caribbean,Upper middle income,39.67,49.92,52.48,59.19,50.32,49.68,Medium Risk,7972.54
+Brazil,BRA,2022,Latin America & Caribbean,Upper middle income,38.62,49.39,51.73,58.79,49.63,50.37,Medium Risk,9281.33
+Brazil,BRA,2023,Latin America & Caribbean,Upper middle income,38.72,48.65,51.14,56.99,48.87,51.13,Medium Risk,10377.59
+Brazil,BRA,2024,Latin America & Caribbean,Upper middle income,39.58,49.28,50.22,57.0,49.02,50.98,Medium Risk,10310.55
+Canada,CAN,2013,North America,High income,84.88,84.33,82.51,83.24,83.74,16.26,Low Risk,52637.73
+Canada,CAN,2014,North America,High income,84.65,85.25,81.4,85.75,84.26,15.74,Low Risk,50960.89
+Canada,CAN,2015,North America,High income,85.67,86.58,81.03,86.1,84.84,15.16,Low Risk,43594.24
+Canada,CAN,2016,North America,High income,87.14,86.72,82.79,85.75,85.6,14.4,Low Risk,42314.1
+Canada,CAN,2017,North America,High income,85.99,86.44,83.94,83.3,84.92,15.08,Low Risk,45129.73
+Canada,CAN,2018,North America,High income,84.44,86.27,80.76,81.9,83.34,16.66,Low Risk,46539.22
+Canada,CAN,2019,North America,High income,84.2,85.92,81.4,81.34,83.21,16.79,Low Risk,46352.97
+Canada,CAN,2020,North America,High income,81.1,83.79,79.98,82.05,81.73,18.27,Low Risk,43537.9
+Canada,CAN,2021,North America,High income,80.56,83.63,80.6,78.88,80.92,19.08,Low Risk,52886.64
+Canada,CAN,2022,North America,High income,81.29,82.87,80.61,74.56,79.83,20.17,Low Risk,56496.93
+Canada,CAN,2023,North America,High income,80.77,81.68,79.66,76.6,79.68,20.32,Low Risk,54847.54
+Canada,CAN,2024,North America,High income,80.89,82.11,76.35,76.12,78.86,21.14,Low Risk,55015.71
+Chile,CHL,2013,Latin America & Caribbean,High income,76.82,75.44,78.54,75.7,76.63,23.37,Low Risk,15683.55
+Chile,CHL,2014,Latin America & Caribbean,High income,75.91,75.17,75.74,78.17,76.25,23.75,Low Risk,14529.68
+Chile,CHL,2015,Latin America & Caribbean,High income,71.01,74.23,74.15,77.48,74.22,25.78,Low Risk,13433.92
+Chile,CHL,2016,Latin America & Caribbean,High income,70.19,73.99,74.99,76.04,73.8,26.2,Low Risk,13649.85
+Chile,CHL,2017,Latin America & Caribbean,High income,70.37,73.61,74.42,75.96,73.59,26.41,Low Risk,14879.91
+Chile,CHL,2018,Latin America & Caribbean,High income,70.37,73.45,73.4,77.41,73.66,26.34,Low Risk,15659.48
+Chile,CHL,2019,Latin America & Caribbean,High income,71.28,72.7,71.85,68.73,71.14,28.86,Low Risk,14496.93
+Chile,CHL,2020,Latin America & Caribbean,High income,72.46,69.69,68.9,68.22,69.82,30.18,Low Risk,13117.99
+Chile,CHL,2021,Latin America & Caribbean,High income,71.06,69.98,68.64,68.39,69.52,30.48,Low Risk,16216.18
+Chile,CHL,2022,Latin America & Caribbean,High income,71.04,69.77,67.92,65.82,68.64,31.36,Low Risk,15399.1
+Chile,CHL,2023,Latin America & Caribbean,High income,68.74,68.41,68.23,67.39,68.19,31.81,Low Risk,17081.52
+Chile,CHL,2024,Latin America & Caribbean,High income,70.24,68.86,67.18,67.97,68.56,31.44,Low Risk,16658.97
+China,CHN,2013,East Asia & Pacific,Upper middle income,38.58,43.28,50.72,56.28,47.22,52.78,Medium Risk,7147.04
+China,CHN,2014,East Asia & Pacific,Upper middle income,41.75,45.08,52.2,56.95,48.99,51.01,Medium Risk,7781.07
+China,CHN,2015,East Asia & Pacific,Upper middle income,44.31,45.57,52.04,56.56,49.62,50.38,Medium Risk,8175.33
+China,CHN,2016,East Asia & Pacific,Upper middle income,45.97,46.27,52.53,57.33,50.53,49.47,Medium Risk,8254.87
+China,CHN,2017,East Asia & Pacific,Upper middle income,46.86,47.75,53.75,62.42,52.69,47.31,Medium Risk,8979.68
+China,CHN,2018,East Asia & Pacific,Upper middle income,46.43,48.01,53.43,61.85,52.43,47.57,Medium Risk,10085.66
+China,CHN,2019,East Asia & Pacific,Upper middle income,46.85,47.47,53.89,63.53,52.93,47.07,Medium Risk,10342.9
+China,CHN,2020,East Asia & Pacific,Upper middle income,48.93,48.2,53.81,60.72,52.92,47.08,Medium Risk,10627.46
+China,CHN,2021,East Asia & Pacific,Upper middle income,48.98,47.69,54.47,61.47,53.15,46.85,Medium Risk,12887.44
+China,CHN,2022,East Asia & Pacific,Upper middle income,48.73,47.26,53.43,61.64,52.77,47.23,Medium Risk,12970.61
+China,CHN,2023,East Asia & Pacific,Upper middle income,50.16,47.46,53.57,62.91,53.53,46.47,Medium Risk,12951.18
+China,CHN,2024,East Asia & Pacific,Upper middle income,49.65,46.99,53.74,63.28,53.41,46.59,Medium Risk,13293.12
+Colombia,COL,2013,Latin America & Caribbean,Upper middle income,38.92,48.64,58.59,43.7,47.46,52.54,Medium Risk,8279.1
+Colombia,COL,2014,Latin America & Caribbean,Upper middle income,40.34,49.88,58.9,48.89,49.5,50.5,Medium Risk,8187.21
+Colombia,COL,2015,Latin America & Caribbean,Upper middle income,41.43,50.09,59.74,49.57,50.21,49.79,Medium Risk,6248.51
+Colombia,COL,2016,Latin America & Caribbean,Upper middle income,40.38,50.96,59.17,50.97,50.37,49.63,Medium Risk,5959.84
+Colombia,COL,2017,Latin America & Caribbean,Upper middle income,39.54,50.68,57.52,52.57,50.08,49.92,Medium Risk,6479.53
+Colombia,COL,2018,Latin America & Caribbean,Upper middle income,41.41,49.7,56.58,54.53,50.55,49.45,Medium Risk,6816.97
+Colombia,COL,2019,Latin America & Caribbean,Upper middle income,42.34,49.17,58.53,50.43,50.12,49.88,Medium Risk,6472.55
+Colombia,COL,2020,Latin America & Caribbean,Upper middle income,42.66,48.66,57.4,54.25,50.74,49.26,Medium Risk,5339.69
+Colombia,COL,2021,Latin America & Caribbean,Upper middle income,42.39,48.24,58.59,48.56,49.45,50.55,Medium Risk,6222.62
+Colombia,COL,2022,Latin America & Caribbean,Upper middle income,42.66,47.85,57.8,52.07,50.1,49.9,Medium Risk,6680.45
+Colombia,COL,2023,Latin America & Caribbean,Upper middle income,41.6,47.24,57.02,52.24,49.52,50.48,Medium Risk,7012.49
+Colombia,COL,2024,Latin America & Caribbean,Upper middle income,41.91,47.33,55.07,49.31,48.41,51.59,Medium Risk,7951.09
+"Congo, Dem. Rep.",COD,2013,Sub-Saharan Africa,Low income,20.11,29.15,35.19,27.88,28.08,71.92,Medium Risk,460.37
+"Congo, Dem. Rep.",COD,2014,Sub-Saharan Africa,Low income,18.76,30.27,35.63,27.49,28.04,71.96,Medium Risk,489.18
+"Congo, Dem. Rep.",COD,2015,Sub-Saharan Africa,Low income,19.65,29.94,34.91,31.55,29.01,70.99,Medium Risk,495.83
+"Congo, Dem. Rep.",COD,2016,Sub-Saharan Africa,Low income,19.13,30.68,35.82,27.99,28.41,71.59,Medium Risk,459.77
+"Congo, Dem. Rep.",COD,2017,Sub-Saharan Africa,Low income,18.83,29.43,34.65,27.23,27.54,72.46,Medium Risk,431.05
+"Congo, Dem. Rep.",COD,2018,Sub-Saharan Africa,Low income,16.85,28.45,34.43,33.5,28.31,71.69,Medium Risk,518.17
+"Congo, Dem. Rep.",COD,2019,Sub-Saharan Africa,Low income,16.34,28.58,33.35,37.76,29.01,70.99,Medium Risk,504.0
+"Congo, Dem. Rep.",COD,2020,Sub-Saharan Africa,Low income,18.36,29.18,33.28,35.04,28.96,71.04,Medium Risk,486.43
+"Congo, Dem. Rep.",COD,2021,Sub-Saharan Africa,Low income,17.41,30.61,34.0,38.03,30.01,69.99,Medium Risk,595.74
+"Congo, Dem. Rep.",COD,2022,Sub-Saharan Africa,Low income,17.28,29.76,34.24,34.37,28.91,71.09,Medium Risk,687.74
+"Congo, Dem. Rep.",COD,2023,Sub-Saharan Africa,Low income,17.71,29.33,35.02,32.05,28.53,71.47,Medium Risk,660.21
+"Congo, Dem. Rep.",COD,2024,Sub-Saharan Africa,Low income,17.18,28.97,34.6,29.7,27.61,72.39,Medium Risk,692.89
+"Egypt, Arab Rep.",EGY,2013,Middle East & North Africa,Lower middle income,36.4,43.28,43.21,35.03,39.48,60.52,Medium Risk,3025.53
+"Egypt, Arab Rep.",EGY,2014,Middle East & North Africa,Lower middle income,36.19,42.51,43.15,40.12,40.49,59.51,Medium Risk,3133.39
+"Egypt, Arab Rep.",EGY,2015,Middle East & North Africa,Lower middle income,36.44,42.54,43.25,39.97,40.55,59.45,Medium Risk,3306.98
+"Egypt, Arab Rep.",EGY,2016,Middle East & North Africa,Lower middle income,38.8,42.43,42.76,39.59,40.9,59.1,Medium Risk,3270.63
+"Egypt, Arab Rep.",EGY,2017,Middle East & North Africa,Lower middle income,39.64,43.63,43.69,40.76,41.93,58.07,Medium Risk,2395.1
+"Egypt, Arab Rep.",EGY,2018,Middle East & North Africa,Lower middle income,38.24,44.23,43.15,44.34,42.49,57.51,Medium Risk,2484.7
+"Egypt, Arab Rep.",EGY,2019,Middle East & North Africa,Lower middle income,34.66,44.07,43.78,45.45,41.99,58.01,Medium Risk,2962.99
+"Egypt, Arab Rep.",EGY,2020,Middle East & North Africa,Lower middle income,31.83,43.37,44.84,46.81,41.71,58.29,Medium Risk,3511.11
+"Egypt, Arab Rep.",EGY,2021,Middle East & North Africa,Lower middle income,31.92,42.88,45.87,47.67,42.08,57.92,Medium Risk,3827.35
+"Egypt, Arab Rep.",EGY,2022,Middle East & North Africa,Lower middle income,32.11,43.66,44.32,49.59,42.42,57.58,Medium Risk,4233.31
+"Egypt, Arab Rep.",EGY,2023,Middle East & North Africa,Lower middle income,31.32,43.58,45.82,50.53,42.81,57.19,Medium Risk,3456.79
+"Egypt, Arab Rep.",EGY,2024,Middle East & North Africa,Lower middle income,31.12,44.03,46.99,49.19,42.83,57.17,Medium Risk,3338.47
+Ethiopia,ETH,2013,Sub-Saharan Africa,Low income,36.37,42.41,38.02,42.06,39.71,60.29,Medium Risk,484.04
+Ethiopia,ETH,2014,Sub-Saharan Africa,Low income,36.86,44.0,40.6,45.8,41.81,58.19,Medium Risk,549.99
+Ethiopia,ETH,2015,Sub-Saharan Africa,Low income,37.34,43.11,40.62,44.31,41.34,58.66,Medium Risk,597.91
+Ethiopia,ETH,2016,Sub-Saharan Africa,Low income,39.03,43.22,39.7,41.3,40.81,59.19,Medium Risk,641.65
+Ethiopia,ETH,2017,Sub-Saharan Africa,Low income,36.42,43.5,40.69,39.94,40.14,59.86,Medium Risk,696.35
+Ethiopia,ETH,2018,Sub-Saharan Africa,Low income,38.61,43.3,41.51,45.3,42.18,57.82,Medium Risk,739.7
+Ethiopia,ETH,2019,Sub-Saharan Africa,Low income,39.21,43.6,41.8,45.76,42.59,57.41,Medium Risk,793.47
+Ethiopia,ETH,2020,Sub-Saharan Africa,Low income,40.39,42.96,42.0,38.68,41.01,58.99,Medium Risk,829.79
+Ethiopia,ETH,2021,Sub-Saharan Africa,Low income,39.75,40.64,42.74,31.49,38.66,61.34,Medium Risk,893.01
+Ethiopia,ETH,2022,Sub-Saharan Africa,Low income,39.63,41.16,42.54,34.02,39.34,60.66,Medium Risk,982.1
+Ethiopia,ETH,2023,Sub-Saharan Africa,Low income,38.48,39.08,41.66,34.06,38.32,61.68,Medium Risk,1055.81
+Ethiopia,ETH,2024,Sub-Saharan Africa,Low income,38.99,38.91,41.72,33.7,38.33,61.67,Medium Risk,1133.88
+France,FRA,2013,Europe & Central Asia,High income,74.77,78.3,72.91,74.29,75.07,24.93,Low Risk,42669.18
+France,FRA,2014,Europe & Central Asia,High income,74.4,78.7,71.14,72.52,74.19,25.81,Low Risk,43148.05
+France,FRA,2015,Europe & Central Asia,High income,74.1,78.35,72.43,68.86,73.43,26.57,Low Risk,36702.43
+France,FRA,2016,Europe & Central Asia,High income,75.03,78.59,72.25,65.18,72.76,27.24,Low Risk,37024.22
+France,FRA,2017,Europe & Central Asia,High income,75.31,78.39,74.31,69.82,74.46,25.54,Low Risk,38687.16
+France,FRA,2018,Europe & Central Asia,High income,76.44,78.06,74.86,67.68,74.26,25.74,Low Risk,41418.18
+France,FRA,2019,Europe & Central Asia,High income,75.42,77.36,77.84,69.38,75.0,25.0,Low Risk,40408.28
+France,FRA,2020,Europe & Central Asia,High income,74.05,76.36,74.72,68.07,73.3,26.7,Low Risk,39169.86
+France,FRA,2021,Europe & Central Asia,High income,76.65,75.56,75.12,68.02,73.84,26.16,Low Risk,43725.1
+France,FRA,2022,Europe & Central Asia,High income,75.9,74.51,74.88,66.23,72.88,27.12,Low Risk,40988.64
+France,FRA,2023,Europe & Central Asia,High income,73.51,74.08,74.3,65.57,71.87,28.13,Low Risk,44700.14
+France,FRA,2024,Europe & Central Asia,High income,72.51,73.81,72.94,61.77,70.26,29.74,Low Risk,46103.08
+Georgia,GEO,2013,Europe & Central Asia,Upper middle income,58.75,59.06,66.35,62.03,61.55,38.45,Low Risk,4712.0
+Georgia,GEO,2014,Europe & Central Asia,Upper middle income,64.21,63.04,67.79,65.47,65.13,34.87,Low Risk,4830.33
+Georgia,GEO,2015,Europe & Central Asia,Upper middle income,63.55,62.83,67.64,64.35,64.59,35.41,Low Risk,4086.62
+Georgia,GEO,2016,Europe & Central Asia,Upper middle income,64.04,63.35,69.76,64.84,65.5,34.5,Low Risk,4143.4
+Georgia,GEO,2017,Europe & Central Asia,Upper middle income,65.3,60.81,69.71,63.97,64.95,35.05,Low Risk,4418.75
+Georgia,GEO,2018,Europe & Central Asia,Upper middle income,64.89,61.55,67.5,64.27,64.55,35.45,Low Risk,4804.05
+Georgia,GEO,2019,Europe & Central Asia,Upper middle income,64.93,60.66,68.71,63.59,64.47,35.53,Low Risk,4741.28
+Georgia,GEO,2020,Europe & Central Asia,Upper middle income,64.46,61.38,67.58,63.72,64.29,35.71,Low Risk,4300.86
+Georgia,GEO,2021,Europe & Central Asia,Upper middle income,62.48,60.84,68.16,62.45,63.48,36.52,Low Risk,5083.61
+Georgia,GEO,2022,Europe & Central Asia,Upper middle income,61.04,60.09,67.06,64.19,63.09,36.91,Low Risk,6729.85
+Georgia,GEO,2023,Europe & Central Asia,Upper middle income,61.18,59.79,67.61,63.83,63.1,36.9,Low Risk,8283.67
+Georgia,GEO,2024,Europe & Central Asia,Upper middle income,55.57,59.53,65.11,55.43,58.91,41.09,Medium Risk,8967.68
+Germany,DEU,2013,Europe & Central Asia,High income,80.77,84.97,78.17,82.24,81.54,18.46,Low Risk,47206.84
+Germany,DEU,2014,Europe & Central Asia,High income,82.43,86.85,79.42,84.12,83.21,16.79,Low Risk,48959.6
+Germany,DEU,2015,Europe & Central Asia,High income,82.74,86.91,80.75,80.09,82.62,17.38,Low Risk,41929.75
+Germany,DEU,2016,Europe & Central Asia,High income,83.54,85.96,81.51,79.47,82.62,17.38,Low Risk,42948.94
+Germany,DEU,2017,Europe & Central Asia,High income,84.74,86.27,81.59,77.89,82.62,17.38,Low Risk,45553.93
+Germany,DEU,2018,Europe & Central Asia,High income,86.67,86.49,81.35,79.97,83.62,16.38,Low Risk,48916.17
+Germany,DEU,2019,Europe & Central Asia,High income,85.85,86.35,81.12,78.32,82.91,17.09,Low Risk,47656.2
+Germany,DEU,2020,Europe & Central Asia,High income,85.73,84.97,79.5,77.58,81.95,18.05,Low Risk,47394.87
+Germany,DEU,2021,Europe & Central Asia,High income,84.78,85.1,80.3,77.17,81.84,18.16,Low Risk,52349.25
+Germany,DEU,2022,Europe & Central Asia,High income,84.74,84.18,79.52,74.92,80.84,19.16,Low Risk,50506.52
+Germany,DEU,2023,Europe & Central Asia,High income,82.25,84.25,78.11,74.54,79.79,20.21,Low Risk,54776.77
+Germany,DEU,2024,Europe & Central Asia,High income,83.75,84.95,78.49,68.02,78.8,21.2,Low Risk,56103.73
+Greece,GRC,2013,Europe & Central Asia,High income,50.08,63.76,59.2,63.29,59.08,40.92,Medium Risk,21573.34
+Greece,GRC,2014,Europe & Central Asia,High income,47.89,63.18,57.29,64.7,58.26,41.74,Medium Risk,21474.73
+Greece,GRC,2015,Europe & Central Asia,High income,48.3,62.81,58.59,63.84,58.39,41.61,Medium Risk,17980.73
+Greece,GRC,2016,Europe & Central Asia,High income,49.65,61.52,57.24,63.27,57.92,42.08,Medium Risk,17919.24
+Greece,GRC,2017,Europe & Central Asia,High income,50.82,61.75,57.34,66.01,58.98,41.02,Medium Risk,18631.99
+Greece,GRC,2018,Europe & Central Asia,High income,52.73,61.78,59.39,71.9,61.45,38.55,Low Risk,19873.4
+Greece,GRC,2019,Europe & Central Asia,High income,54.01,63.57,61.47,70.66,62.43,37.57,Low Risk,19335.36
+Greece,GRC,2020,Europe & Central Asia,High income,53.54,65.11,61.83,71.01,62.87,37.13,Low Risk,17886.73
+Greece,GRC,2021,Europe & Central Asia,High income,55.77,64.61,61.11,69.77,62.82,37.18,Low Risk,20652.9
+Greece,GRC,2022,Europe & Central Asia,High income,54.38,65.39,61.51,69.94,62.8,37.2,Low Risk,20884.68
+Greece,GRC,2023,Europe & Central Asia,High income,54.52,63.79,62.98,72.48,63.44,36.56,Low Risk,23343.71
+Greece,GRC,2024,Europe & Central Asia,High income,53.92,62.1,62.43,68.28,61.68,38.32,Low Risk,24626.15
+India,IND,2013,South Asia,Lower middle income,38.33,54.97,48.99,45.89,47.04,52.96,Medium Risk,1432.84
+India,IND,2014,South Asia,Lower middle income,39.48,54.11,48.86,51.93,48.59,51.41,Medium Risk,1553.88
+India,IND,2015,South Asia,Lower middle income,40.87,54.6,49.65,52.88,49.5,50.5,Medium Risk,1584.0
+India,IND,2016,South Asia,Lower middle income,42.08,55.55,50.86,53.32,50.45,49.55,Medium Risk,1707.51
+India,IND,2017,South Asia,Lower middle income,43.31,56.28,51.46,56.12,51.79,48.21,Medium Risk,1950.1
+India,IND,2018,South Asia,Lower middle income,43.65,57.31,52.41,54.3,51.92,48.08,Medium Risk,1966.25
+India,IND,2019,South Asia,Lower middle income,43.44,56.62,53.32,55.81,52.29,47.71,Medium Risk,2041.43
+India,IND,2020,South Asia,Lower middle income,42.7,55.19,52.52,53.58,51.0,49.0,Medium Risk,1907.04
+India,IND,2021,South Asia,Lower middle income,41.77,53.8,52.18,55.62,50.84,49.16,Medium Risk,2239.61
+India,IND,2022,South Asia,Lower middle income,41.93,55.06,53.48,53.02,50.88,49.12,Medium Risk,2279.98
+India,IND,2023,South Asia,Lower middle income,41.07,55.45,52.86,51.58,50.24,49.76,Medium Risk,2434.45
+India,IND,2024,South Asia,Lower middle income,41.88,56.29,53.35,52.47,51.0,49.0,Medium Risk,2591.99
+Indonesia,IDN,2013,East Asia & Pacific,Lower middle income,33.12,49.74,54.1,55.34,48.07,51.93,Medium Risk,3566.6
+Indonesia,IDN,2014,East Asia & Pacific,Lower middle income,33.38,51.14,54.91,59.32,49.69,50.31,Medium Risk,3441.07
+Indonesia,IDN,2015,East Asia & Pacific,Lower middle income,37.27,50.4,52.66,56.69,49.26,50.74,Medium Risk,3288.22
+Indonesia,IDN,2016,East Asia & Pacific,Lower middle income,38.09,51.43,55.4,57.98,50.73,49.27,Medium Risk,3521.47
+Indonesia,IDN,2017,East Asia & Pacific,Lower middle income,40.23,51.52,56.44,55.96,51.04,48.96,Medium Risk,3798.88
+Indonesia,IDN,2018,East Asia & Pacific,Lower middle income,41.01,53.18,56.02,56.62,51.71,48.29,Medium Risk,3860.95
+Indonesia,IDN,2019,East Asia & Pacific,Lower middle income,39.19,53.66,56.61,55.98,51.36,48.64,Medium Risk,4106.95
+Indonesia,IDN,2020,East Asia & Pacific,Lower middle income,40.86,54.42,58.41,56.67,52.59,47.41,Medium Risk,3853.7
+Indonesia,IDN,2021,East Asia & Pacific,Lower middle income,39.43,54.49,60.26,54.8,52.24,47.76,Medium Risk,4287.17
+Indonesia,IDN,2022,East Asia & Pacific,Lower middle income,40.36,54.74,59.3,52.87,51.82,48.18,Medium Risk,4730.83
+Indonesia,IDN,2023,East Asia & Pacific,Lower middle income,38.88,55.56,60.24,55.41,52.52,47.48,Medium Risk,4876.3
+Indonesia,IDN,2024,East Asia & Pacific,Lower middle income,36.83,53.41,56.83,55.49,50.64,49.36,Medium Risk,4925.44
+"Iran, Islamic Rep.",IRN,2013,Middle East & North Africa,Lower middle income,29.34,36.21,33.18,45.72,36.11,63.89,Medium Risk,6222.74
+"Iran, Islamic Rep.",IRN,2014,Middle East & North Africa,Lower middle income,31.32,35.37,34.33,53.48,38.63,61.37,Medium Risk,5672.06
+"Iran, Islamic Rep.",IRN,2015,Middle East & North Africa,Lower middle income,32.48,40.2,37.66,52.41,40.69,59.31,Medium Risk,4952.73
+"Iran, Islamic Rep.",IRN,2016,Middle East & North Africa,Lower middle income,34.57,40.21,38.21,54.88,41.97,58.03,Medium Risk,5710.6
+"Iran, Islamic Rep.",IRN,2017,Middle East & North Africa,Lower middle income,33.66,40.99,37.78,53.95,41.6,58.4,Medium Risk,6000.93
+"Iran, Islamic Rep.",IRN,2018,Middle East & North Africa,Lower middle income,28.79,40.29,34.47,49.35,38.22,61.78,Medium Risk,4783.01
+"Iran, Islamic Rep.",IRN,2019,Middle East & North Africa,Lower middle income,27.78,38.83,33.4,44.45,36.11,63.89,Medium Risk,3997.49
+"Iran, Islamic Rep.",IRN,2020,Middle East & North Africa,Lower middle income,25.5,39.29,32.89,45.03,35.68,64.32,Medium Risk,3202.5
+"Iran, Islamic Rep.",IRN,2021,Middle East & North Africa,Lower middle income,25.05,38.57,32.88,46.12,35.65,64.35,Medium Risk,4605.15
+"Iran, Islamic Rep.",IRN,2022,Middle East & North Africa,Lower middle income,24.94,37.59,32.82,46.34,35.42,64.58,Medium Risk,4721.2
+"Iran, Islamic Rep.",IRN,2023,Middle East & North Africa,Lower middle income,24.15,36.3,31.7,44.21,34.09,65.91,Medium Risk,5049.3
+"Iran, Islamic Rep.",IRN,2024,Middle East & North Africa,Lower middle income,24.63,35.71,31.03,38.89,32.56,67.44,Medium Risk,5190.17
+Italy,ITA,2013,Europe & Central Asia,High income,48.71,66.14,62.56,72.43,62.46,37.54,Low Risk,35701.67
+Italy,ITA,2014,Europe & Central Asia,High income,48.12,66.51,60.83,74.25,62.43,37.57,Low Risk,36028.35
+Italy,ITA,2015,Europe & Central Asia,High income,49.23,64.91,64.12,72.64,62.72,37.28,Low Risk,30639.88
+Italy,ITA,2016,Europe & Central Asia,High income,50.39,64.9,64.86,71.9,63.01,36.99,Low Risk,31391.57
+Italy,ITA,2017,Europe & Central Asia,High income,51.8,64.52,64.89,70.24,62.86,37.14,Low Risk,32844.12
+Italy,ITA,2018,Europe & Central Asia,High income,52.87,64.17,63.7,72.25,63.25,36.75,Low Risk,35062.34
+Italy,ITA,2019,Europe & Central Asia,High income,53.58,66.08,65.92,71.4,64.25,35.75,Low Risk,33812.79
+Italy,ITA,2020,Europe & Central Asia,High income,58.58,66.51,62.3,71.57,64.74,35.26,Low Risk,32091.49
+Italy,ITA,2021,Europe & Central Asia,High income,58.77,67.09,63.91,73.4,65.79,34.21,Low Risk,36852.54
+Italy,ITA,2022,Europe & Central Asia,High income,59.47,66.84,64.34,72.94,65.9,34.1,Low Risk,35653.9
+Italy,ITA,2023,Europe & Central Asia,High income,59.42,68.16,65.84,73.99,66.85,33.15,Low Risk,39279.7
+Italy,ITA,2024,Europe & Central Asia,High income,59.05,67.62,64.96,71.17,65.7,34.3,Low Risk,40429.62
+Japan,JPN,2013,East Asia & Pacific,High income,78.18,80.6,76.3,83.79,79.72,20.28,Low Risk,41369.19
+Japan,JPN,2014,East Asia & Pacific,High income,79.01,82.04,75.36,86.57,80.74,19.26,Low Risk,39172.85
+Japan,JPN,2015,East Asia & Pacific,High income,77.22,81.68,77.12,86.78,80.7,19.3,Low Risk,35664.64
+Japan,JPN,2016,East Asia & Pacific,High income,77.11,81.64,78.97,85.02,80.69,19.31,Low Risk,40214.97
+Japan,JPN,2017,East Asia & Pacific,High income,77.73,82.59,76.92,85.87,80.78,19.22,Low Risk,39679.86
+Japan,JPN,2018,East Asia & Pacific,High income,76.01,82.56,76.38,85.33,80.07,19.93,Low Risk,40645.48
+Japan,JPN,2019,East Asia & Pacific,High income,76.87,82.99,76.76,84.96,80.4,19.6,Low Risk,41424.87
+Japan,JPN,2020,East Asia & Pacific,High income,76.8,83.02,76.43,85.24,80.37,19.63,Low Risk,41098.97
+Japan,JPN,2021,East Asia & Pacific,High income,77.31,83.33,76.87,85.71,80.81,19.19,Low Risk,41580.74
+Japan,JPN,2022,East Asia & Pacific,High income,77.04,82.93,77.11,87.69,81.19,18.81,Low Risk,35548.26
+Japan,JPN,2023,East Asia & Pacific,High income,74.93,82.93,76.91,87.54,80.58,19.42,Low Risk,35215.0
+Japan,JPN,2024,East Asia & Pacific,High income,75.32,82.98,75.83,85.27,79.85,20.15,Low Risk,33797.1
+Kazakhstan,KAZ,2013,Europe & Central Asia,Upper middle income,29.06,45.26,49.54,58.18,45.51,54.49,Medium Risk,13478.46
+Kazakhstan,KAZ,2014,Europe & Central Asia,Upper middle income,30.8,46.68,52.52,66.4,49.1,50.9,Medium Risk,12427.71
+Kazakhstan,KAZ,2015,Europe & Central Asia,Upper middle income,30.98,48.5,53.74,66.48,49.92,50.08,Medium Risk,10196.12
+Kazakhstan,KAZ,2016,Europe & Central Asia,Upper middle income,31.93,48.17,52.73,64.42,49.31,50.69,Medium Risk,7475.57
+Kazakhstan,KAZ,2017,Europe & Central Asia,Upper middle income,32.82,49.02,56.18,64.93,50.74,49.26,Medium Risk,8943.08
+Kazakhstan,KAZ,2018,Europe & Central Asia,Upper middle income,37.64,50.59,55.73,64.04,52.0,48.0,Medium Risk,9472.49
+Kazakhstan,KAZ,2019,Europe & Central Asia,Upper middle income,43.66,49.55,56.64,62.12,52.99,47.01,Medium Risk,9457.13
+Kazakhstan,KAZ,2020,Europe & Central Asia,Upper middle income,42.02,49.81,55.71,61.04,52.15,47.85,Medium Risk,8781.51
+Kazakhstan,KAZ,2021,Europe & Central Asia,Upper middle income,42.39,48.95,55.07,61.92,52.08,47.92,Medium Risk,9983.6
+Kazakhstan,KAZ,2022,Europe & Central Asia,Upper middle income,43.97,49.38,53.85,55.99,50.8,49.2,Medium Risk,11255.34
+Kazakhstan,KAZ,2023,Europe & Central Asia,Upper middle income,43.35,50.46,54.95,62.44,52.8,47.2,Medium Risk,12879.43
+Kazakhstan,KAZ,2024,Europe & Central Asia,Upper middle income,46.5,50.4,55.6,61.06,53.39,46.61,Medium Risk,14154.63
+Kenya,KEN,2013,Sub-Saharan Africa,Lower middle income,28.94,44.22,46.88,45.96,41.5,58.5,Medium Risk,1370.88
+Kenya,KEN,2014,Sub-Saharan Africa,Lower middle income,30.97,47.48,49.72,44.32,43.12,56.88,Medium Risk,1482.82
+Kenya,KEN,2015,Sub-Saharan Africa,Lower middle income,28.2,45.91,50.3,44.87,42.32,57.68,Medium Risk,1489.12
+Kenya,KEN,2016,Sub-Saharan Africa,Lower middle income,29.62,46.42,51.28,45.75,43.27,56.73,Medium Risk,1554.13
+Kenya,KEN,2017,Sub-Saharan Africa,Lower middle income,29.67,47.6,51.73,46.55,43.89,56.11,Medium Risk,1667.48
+Kenya,KEN,2018,Sub-Saharan Africa,Lower middle income,30.97,48.17,50.14,46.77,44.01,55.99,Medium Risk,1836.45
+Kenya,KEN,2019,Sub-Saharan Africa,Lower middle income,31.47,47.34,49.44,47.53,43.95,56.05,Medium Risk,1960.41
+Kenya,KEN,2020,Sub-Saharan Africa,Lower middle income,32.66,47.01,47.61,47.95,43.81,56.19,Medium Risk,1927.66
+Kenya,KEN,2021,Sub-Saharan Africa,Lower middle income,33.47,49.3,48.16,46.93,44.46,55.54,Medium Risk,2061.36
+Kenya,KEN,2022,Sub-Saharan Africa,Lower middle income,32.65,49.66,48.7,49.46,45.12,54.88,Medium Risk,2109.56
+Kenya,KEN,2023,Sub-Saharan Africa,Lower middle income,32.48,49.61,48.58,49.3,44.99,55.01,Medium Risk,1942.59
+Kenya,KEN,2024,Sub-Saharan Africa,Lower middle income,31.62,48.97,49.6,42.74,43.23,56.77,Medium Risk,2133.46
+Mexico,MEX,2013,Latin America & Caribbean,Upper middle income,37.1,45.82,59.38,52.15,48.61,51.39,Medium Risk,11216.8
+Mexico,MEX,2014,Latin America & Caribbean,Upper middle income,32.62,46.93,58.15,49.5,46.8,53.2,Medium Risk,11391.38
+Mexico,MEX,2015,Latin America & Caribbean,Upper middle income,30.83,45.21,57.74,50.65,46.11,53.89,Medium Risk,10021.24
+Mexico,MEX,2016,Latin America & Caribbean,Upper middle income,31.23,45.47,57.4,51.65,46.44,53.56,Medium Risk,9097.92
+Mexico,MEX,2017,Latin America & Caribbean,Upper middle income,28.66,44.4,57.45,48.03,44.64,55.36,Medium Risk,9649.28
+Mexico,MEX,2018,Latin America & Caribbean,Upper middle income,28.77,43.09,54.81,50.05,44.18,55.82,Medium Risk,10084.79
+Mexico,MEX,2019,Latin America & Caribbean,Upper middle income,29.85,41.89,54.2,50.56,44.13,55.87,Medium Risk,10369.56
+Mexico,MEX,2020,Latin America & Caribbean,Upper middle income,30.57,39.98,52.98,52.62,44.04,55.96,Medium Risk,8841.27
+Mexico,MEX,2021,Latin America & Caribbean,Upper middle income,30.18,39.33,51.85,53.32,43.67,56.33,Medium Risk,10314.05
+Mexico,MEX,2022,Latin America & Caribbean,Upper middle income,30.13,38.34,52.4,55.83,44.17,55.83,Medium Risk,11405.79
+Mexico,MEX,2023,Latin America & Caribbean,Upper middle income,28.99,38.42,52.09,55.67,43.79,56.21,Medium Risk,13830.84
+Mexico,MEX,2024,Latin America & Caribbean,Upper middle income,28.81,37.11,51.77,53.67,42.84,57.16,Medium Risk,13988.04
+Nigeria,NGA,2013,Sub-Saharan Africa,Lower middle income,23.86,36.56,43.18,31.91,33.88,66.12,Medium Risk,2872.79
+Nigeria,NGA,2014,Sub-Saharan Africa,Lower middle income,21.58,37.48,42.34,28.56,32.49,67.51,Medium Risk,3088.72
+Nigeria,NGA,2015,Sub-Saharan Africa,Lower middle income,24.35,40.43,43.19,37.41,36.34,63.66,Medium Risk,2585.73
+Nigeria,NGA,2016,Sub-Saharan Africa,Lower middle income,25.77,41.83,42.01,36.68,36.57,63.43,Medium Risk,2070.41
+Nigeria,NGA,2017,Sub-Saharan Africa,Lower middle income,24.69,43.3,42.59,33.27,35.96,64.04,Medium Risk,1876.34
+Nigeria,NGA,2018,Sub-Saharan Africa,Lower middle income,24.67,42.96,41.77,33.69,35.77,64.23,Medium Risk,2057.88
+Nigeria,NGA,2019,Sub-Saharan Africa,Lower middle income,25.07,42.55,41.23,32.19,35.26,64.74,Medium Risk,3189.81
+Nigeria,NGA,2020,Sub-Saharan Africa,Lower middle income,25.23,42.49,40.87,31.58,35.04,64.96,Medium Risk,2797.18
+Nigeria,NGA,2021,Sub-Saharan Africa,Lower middle income,23.75,41.02,41.1,31.5,34.34,65.66,Medium Risk,2787.49
+Nigeria,NGA,2022,Sub-Saharan Africa,Lower middle income,23.06,39.76,39.15,32.54,33.63,66.37,Medium Risk,2899.16
+Nigeria,NGA,2023,Sub-Saharan Africa,Lower middle income,25.61,40.88,41.81,32.48,35.2,64.8,Medium Risk,2138.76
+Nigeria,NGA,2024,Sub-Saharan Africa,Lower middle income,25.29,39.63,44.87,31.69,35.37,64.63,Medium Risk,1084.16
+Pakistan,PAK,2013,South Asia,Lower middle income,25.0,38.91,42.15,20.32,31.6,68.4,Medium Risk,1225.43
+Pakistan,PAK,2014,South Asia,Lower middle income,27.52,40.26,43.06,23.84,33.67,66.33,Medium Risk,1266.61
+Pakistan,PAK,2015,South Asia,Lower middle income,28.0,41.22,44.04,24.39,34.41,65.59,Medium Risk,1380.47
+Pakistan,PAK,2016,South Asia,Lower middle income,28.16,41.25,44.46,26.01,34.97,65.03,Medium Risk,1424.69
+Pakistan,PAK,2017,South Asia,Lower middle income,28.93,42.07,44.39,28.0,35.85,64.15,Medium Risk,1519.23
+Pakistan,PAK,2018,South Asia,Lower middle income,28.34,42.51,44.42,31.97,36.81,63.19,Medium Risk,1569.34
+Pakistan,PAK,2019,South Asia,Lower middle income,28.19,42.99,45.08,32.94,37.3,62.7,Medium Risk,1390.42
+Pakistan,PAK,2020,South Asia,Lower middle income,28.89,42.97,43.81,38.77,38.61,61.39,Medium Risk,1278.4
+Pakistan,PAK,2021,South Asia,Lower middle income,29.51,42.8,44.54,37.72,38.64,61.36,Medium Risk,1455.32
+Pakistan,PAK,2022,South Asia,Lower middle income,28.71,41.29,42.79,35.91,37.17,62.83,Medium Risk,1538.32
+Pakistan,PAK,2023,South Asia,Lower middle income,26.68,39.68,41.9,32.75,35.25,64.75,Medium Risk,1360.32
+Pakistan,PAK,2024,South Asia,Lower middle income,26.28,39.46,42.36,30.65,34.69,65.31,Medium Risk,1479.48
+Philippines,PHL,2013,East Asia & Pacific,Lower middle income,37.77,48.88,55.36,47.2,47.3,52.7,Medium Risk,2781.28
+Philippines,PHL,2014,East Asia & Pacific,Lower middle income,36.06,50.75,55.8,52.13,48.69,51.31,Medium Risk,2866.84
+Philippines,PHL,2015,East Asia & Pacific,Lower middle income,35.9,49.56,56.25,50.06,47.94,52.06,Medium Risk,2909.86
+Philippines,PHL,2016,East Asia & Pacific,Lower middle income,35.44,48.82,56.85,41.34,45.61,54.39,Medium Risk,2985.2
+Philippines,PHL,2017,East Asia & Pacific,Lower middle income,34.96,46.79,57.02,44.04,45.7,54.3,Medium Risk,3038.12
+Philippines,PHL,2018,East Asia & Pacific,Lower middle income,34.92,45.95,54.78,47.67,45.83,54.17,Medium Risk,3168.51
+Philippines,PHL,2019,East Asia & Pacific,Lower middle income,35.48,45.83,55.79,48.65,46.44,53.56,Medium Risk,3400.79
+Philippines,PHL,2020,East Asia & Pacific,Lower middle income,36.94,46.07,55.09,49.81,46.98,53.02,Medium Risk,3227.58
+Philippines,PHL,2021,East Asia & Pacific,Lower middle income,36.23,45.37,55.1,47.21,45.98,54.02,Medium Risk,3484.39
+Philippines,PHL,2022,East Asia & Pacific,Lower middle income,36.17,46.08,54.94,50.54,46.93,53.07,Medium Risk,3548.07
+Philippines,PHL,2023,East Asia & Pacific,Lower middle income,36.34,46.62,55.86,53.78,48.15,51.85,Medium Risk,3804.08
+Philippines,PHL,2024,East Asia & Pacific,Lower middle income,36.18,47.09,56.11,52.67,48.01,51.99,Medium Risk,3985.29
+Poland,POL,2013,Europe & Central Asia,High income,64.19,71.11,69.09,82.06,71.61,28.39,Low Risk,13621.9
+Poland,POL,2014,Europe & Central Asia,High income,63.52,72.13,68.52,83.9,72.02,27.98,Low Risk,14262.28
+Poland,POL,2015,Europe & Central Asia,High income,64.77,71.35,67.67,84.06,71.96,28.04,Low Risk,12637.52
+Poland,POL,2016,Europe & Central Asia,High income,65.48,69.95,67.66,75.65,69.68,30.32,Low Risk,12464.01
+Poland,POL,2017,Europe & Central Asia,High income,64.64,67.62,66.25,76.18,68.67,31.33,Low Risk,13913.34
+Poland,POL,2018,Europe & Central Asia,High income,63.58,66.38,66.89,76.66,68.38,31.62,Low Risk,15658.21
+Poland,POL,2019,Europe & Central Asia,High income,62.35,66.02,67.92,77.4,68.42,31.58,Low Risk,15874.52
+Poland,POL,2020,Europe & Central Asia,High income,62.92,64.88,65.67,75.37,67.21,32.79,Low Risk,16150.93
+Poland,POL,2021,Europe & Central Asia,High income,61.76,64.02,65.49,75.55,66.7,33.3,Low Risk,18635.51
+Poland,POL,2022,Europe & Central Asia,High income,61.36,63.07,65.7,75.08,66.3,33.7,Low Risk,18891.21
+Poland,POL,2023,Europe & Central Asia,High income,63.11,63.1,66.3,74.53,66.76,33.24,Low Risk,22145.27
+Poland,POL,2024,Europe & Central Asia,High income,63.93,66.89,65.68,74.41,67.73,32.27,Low Risk,25103.57
+Russian Federation,RUS,2013,Europe & Central Asia,Upper middle income,27.57,41.21,48.46,51.75,42.25,57.75,Medium Risk,15941.45
+Russian Federation,RUS,2014,Europe & Central Asia,Upper middle income,29.89,42.29,47.76,53.94,43.47,56.53,Medium Risk,14055.47
+Russian Federation,RUS,2015,Europe & Central Asia,Upper middle income,29.37,41.32,46.73,52.39,42.45,57.55,Medium Risk,9277.71
+Russian Federation,RUS,2016,Europe & Central Asia,Upper middle income,31.13,42.04,48.17,52.77,43.53,56.47,Medium Risk,8663.16
+Russian Federation,RUS,2017,Europe & Central Asia,Upper middle income,29.37,42.56,48.61,56.69,44.31,55.69,Medium Risk,10658.91
+Russian Federation,RUS,2018,Europe & Central Asia,Upper middle income,29.87,42.64,49.22,59.61,45.33,54.67,Medium Risk,11211.89
+Russian Federation,RUS,2019,Europe & Central Asia,Upper middle income,32.28,42.05,49.28,59.08,45.67,54.33,Medium Risk,11447.7
+Russian Federation,RUS,2020,Europe & Central Asia,Upper middle income,32.17,42.76,47.84,57.24,45.0,55.0,Medium Risk,10108.33
+Russian Federation,RUS,2021,Europe & Central Asia,Upper middle income,32.09,41.43,49.0,57.25,44.94,55.06,Medium Risk,12425.03
+Russian Federation,RUS,2022,Europe & Central Asia,Upper middle income,32.21,38.81,40.8,53.24,41.26,58.74,Medium Risk,15625.63
+Russian Federation,RUS,2023,Europe & Central Asia,Upper middle income,29.89,38.49,40.84,51.91,40.28,59.72,Medium Risk,13987.0
+Russian Federation,RUS,2024,Europe & Central Asia,Upper middle income,29.82,37.06,38.01,50.46,38.84,61.16,Medium Risk,14961.9
+Saudi Arabia,SAU,2013,Middle East & North Africa,High income,44.26,53.48,59.16,54.62,52.88,47.12,Medium Risk,27865.47
+Saudi Arabia,SAU,2014,Middle East & North Africa,High income,42.78,49.48,57.93,60.62,52.7,47.3,Medium Risk,27805.49
+Saudi Arabia,SAU,2015,Middle East & North Africa,High income,45.0,52.36,58.61,57.89,53.46,46.54,Medium Risk,23256.15
+Saudi Arabia,SAU,2016,Middle East & North Africa,High income,50.29,53.52,57.83,57.25,54.72,45.28,Medium Risk,22267.72
+Saudi Arabia,SAU,2017,Middle East & North Africa,High income,50.08,51.24,56.45,54.49,53.06,46.94,Medium Risk,23929.29
+Saudi Arabia,SAU,2018,Middle East & North Africa,High income,51.01,52.96,56.13,55.67,53.94,46.06,Medium Risk,29360.07
+Saudi Arabia,SAU,2019,Middle East & North Africa,High income,52.17,54.05,57.69,56.45,55.09,44.91,Medium Risk,29566.79
+Saudi Arabia,SAU,2020,Middle East & North Africa,High income,54.36,53.88,57.59,56.45,55.57,44.43,Medium Risk,24338.83
+Saudi Arabia,SAU,2021,Middle East & North Africa,High income,52.64,54.11,60.98,57.91,56.41,43.59,Medium Risk,31920.77
+Saudi Arabia,SAU,2022,Middle East & North Africa,High income,53.46,57.64,63.6,59.71,58.6,41.4,Medium Risk,38510.23
+Saudi Arabia,SAU,2023,Middle East & North Africa,High income,57.51,58.97,64.49,61.71,60.67,39.33,Low Risk,36156.86
+Saudi Arabia,SAU,2024,Middle East & North Africa,High income,63.09,60.59,66.06,65.07,63.7,36.3,Low Risk,35527.79
+South Africa,ZAF,2013,Sub-Saharan Africa,Upper middle income,47.18,57.39,64.72,61.48,57.69,42.31,Medium Risk,7331.65
+South Africa,ZAF,2014,Sub-Saharan Africa,Upper middle income,47.56,58.18,61.2,61.95,57.22,42.78,Medium Risk,6856.73
+South Africa,ZAF,2015,Sub-Saharan Africa,Upper middle income,48.09,57.72,59.51,60.59,56.48,43.52,Medium Risk,6112.27
+South Africa,ZAF,2016,Sub-Saharan Africa,Upper middle income,48.47,58.17,58.98,60.12,56.44,43.56,Medium Risk,5651.21
+South Africa,ZAF,2017,Sub-Saharan Africa,Upper middle income,46.24,57.21,58.49,59.36,55.32,44.68,Medium Risk,6618.34
+South Africa,ZAF,2018,Sub-Saharan Africa,Upper middle income,46.9,55.79,55.94,60.78,54.85,45.15,Medium Risk,6914.18
+South Africa,ZAF,2019,Sub-Saharan Africa,Upper middle income,48.56,55.68,56.74,60.12,55.27,44.73,Medium Risk,6533.71
+South Africa,ZAF,2020,Sub-Saharan Africa,Upper middle income,48.37,55.91,56.28,61.64,55.55,44.45,Medium Risk,5580.6
+South Africa,ZAF,2021,Sub-Saharan Africa,Upper middle income,49.16,59.05,55.14,52.68,54.01,45.99,Medium Risk,6828.76
+South Africa,ZAF,2022,Sub-Saharan Africa,Upper middle income,44.55,57.55,53.88,54.21,52.55,47.45,Medium Risk,6534.25
+South Africa,ZAF,2023,Sub-Saharan Africa,Upper middle income,43.61,57.64,53.88,54.97,52.53,47.47,Medium Risk,6034.27
+South Africa,ZAF,2024,Sub-Saharan Africa,Upper middle income,43.97,57.27,53.91,55.35,52.63,47.37,Medium Risk,6267.19
+Sri Lanka,LKA,2013,South Asia,Lower middle income,41.57,50.84,53.66,51.23,49.32,50.68,Medium Risk,3739.43
+Sri Lanka,LKA,2014,South Asia,Lower middle income,38.74,50.76,54.76,56.44,50.18,49.82,Medium Risk,3972.04
+Sri Lanka,LKA,2015,South Asia,Lower middle income,40.95,55.06,55.35,64.38,53.93,46.07,Medium Risk,4057.72
+Sri Lanka,LKA,2016,South Asia,Lower middle income,42.77,55.13,54.16,63.44,53.88,46.12,Medium Risk,4149.19
+Sri Lanka,LKA,2017,South Asia,Lower middle income,41.62,55.04,53.02,62.83,53.13,46.87,Medium Risk,4398.89
+Sri Lanka,LKA,2018,South Asia,Lower middle income,43.71,55.97,51.87,61.46,53.25,46.75,Medium Risk,4358.56
+Sri Lanka,LKA,2019,South Asia,Lower middle income,44.54,55.62,51.93,62.93,53.75,46.25,Medium Risk,4081.95
+Sri Lanka,LKA,2020,South Asia,Lower middle income,42.27,53.68,53.09,63.92,53.24,46.76,Medium Risk,3847.6
+Sri Lanka,LKA,2021,South Asia,Lower middle income,41.04,52.98,52.29,57.17,50.87,49.13,Medium Risk,3996.96
+Sri Lanka,LKA,2022,South Asia,Lower middle income,40.7,51.29,47.66,52.88,48.13,51.87,Medium Risk,3342.64
+Sri Lanka,LKA,2023,South Asia,Lower middle income,40.02,51.53,48.87,54.45,48.72,51.28,Medium Risk,3815.42
+Sri Lanka,LKA,2024,South Asia,Lower middle income,40.07,52.53,50.14,59.91,50.66,49.34,Medium Risk,4545.36
+Turkiye,TUR,2013,Europe & Central Asia,Upper middle income,50.69,54.99,62.42,48.26,54.09,45.91,Medium Risk,12635.56
+Turkiye,TUR,2014,Europe & Central Asia,Upper middle income,45.65,50.75,60.68,52.23,52.33,47.67,Medium Risk,12209.39
+Turkiye,TUR,2015,Europe & Central Asia,Upper middle income,45.7,48.75,58.29,46.94,49.92,50.08,Medium Risk,11064.65
+Turkiye,TUR,2016,Europe & Central Asia,Upper middle income,46.14,47.57,57.3,35.49,46.62,53.38,Medium Risk,10984.36
+Turkiye,TUR,2017,Europe & Central Asia,Upper middle income,46.51,46.37,57.13,36.75,46.69,53.31,Medium Risk,10756.39
+Turkiye,TUR,2018,Europe & Central Asia,Upper middle income,43.16,44.76,55.68,46.69,47.57,52.43,Medium Risk,9684.12
+Turkiye,TUR,2019,Europe & Central Asia,Upper middle income,44.21,46.69,54.61,45.53,47.76,52.24,Medium Risk,9395.23
+Turkiye,TUR,2020,Europe & Central Asia,Upper middle income,41.29,44.75,52.26,48.14,46.61,53.39,Medium Risk,8798.12
+Turkiye,TUR,2021,Europe & Central Asia,Upper middle income,39.77,43.62,52.92,49.29,46.4,53.6,Medium Risk,9981.76
+Turkiye,TUR,2022,Europe & Central Asia,Upper middle income,39.1,43.54,51.25,49.92,45.95,54.05,Medium Risk,10897.84
+Turkiye,TUR,2023,Europe & Central Asia,Upper middle income,39.0,43.21,51.54,50.79,46.13,53.87,Medium Risk,13375.09
+Turkiye,TUR,2024,Europe & Central Asia,Upper middle income,36.45,42.45,51.53,49.31,44.94,55.06,Medium Risk,15892.72
+United Arab Emirates,ARE,2013,Middle East & North Africa,High income,71.16,64.09,70.48,79.11,71.21,28.79,Low Risk,53247.23
+United Arab Emirates,ARE,2014,Middle East & North Africa,High income,67.81,62.99,71.8,81.24,70.96,29.04,Low Risk,52725.23
+United Arab Emirates,ARE,2015,Middle East & North Africa,High income,66.48,63.01,73.45,80.21,70.79,29.21,Low Risk,44910.35
+United Arab Emirates,ARE,2016,Middle East & North Africa,High income,70.25,64.2,71.87,77.73,71.01,28.99,Low Risk,42721.11
+United Arab Emirates,ARE,2017,Middle East & North Africa,High income,69.64,63.56,72.39,78.18,70.94,29.06,Low Risk,43733.62
+United Arab Emirates,ARE,2018,Middle East & North Africa,High income,70.02,63.67,71.88,80.13,71.42,28.58,Low Risk,47135.35
+United Arab Emirates,ARE,2019,Middle East & North Africa,High income,69.87,64.3,72.93,80.06,71.79,28.21,Low Risk,45938.61
+United Arab Emirates,ARE,2020,Middle East & North Africa,High income,69.34,63.81,71.68,80.02,71.21,28.79,Low Risk,37991.74
+United Arab Emirates,ARE,2021,Middle East & North Africa,High income,68.8,62.79,71.6,80.24,70.86,29.14,Low Risk,44118.49
+United Arab Emirates,ARE,2022,Middle East & North Africa,High income,68.55,64.02,71.54,80.98,71.27,28.73,Low Risk,50759.76
+United Arab Emirates,ARE,2023,Middle East & North Africa,High income,67.93,64.7,72.3,79.27,71.05,28.95,Low Risk,49850.69
+United Arab Emirates,ARE,2024,Middle East & North Africa,High income,71.54,65.52,72.62,79.37,72.26,27.74,Low Risk,50273.51
+United Kingdom,GBR,2013,Europe & Central Asia,High income,78.31,82.93,82.11,73.75,79.28,20.72,Low Risk,43607.66
+United Kingdom,GBR,2014,Europe & Central Asia,High income,78.63,84.39,82.2,75.18,80.1,19.9,Low Risk,47746.98
+United Kingdom,GBR,2015,Europe & Central Asia,High income,81.34,85.55,83.47,75.07,81.36,18.64,Low Risk,45256.04
+United Kingdom,GBR,2016,Europe & Central Asia,High income,83.48,84.73,81.37,73.58,80.79,19.21,Low Risk,41258.54
+United Kingdom,GBR,2017,Europe & Central Asia,High income,84.62,84.65,81.19,73.42,80.97,19.03,Low Risk,40918.05
+United Kingdom,GBR,2018,Europe & Central Asia,High income,84.38,82.53,81.28,70.72,79.73,20.27,Low Risk,43704.32
+United Kingdom,GBR,2019,Europe & Central Asia,High income,83.63,81.72,81.89,75.6,80.71,19.29,Low Risk,43160.68
+United Kingdom,GBR,2020,Europe & Central Asia,High income,82.69,80.29,80.12,74.61,79.43,20.57,Low Risk,40815.13
+United Kingdom,GBR,2021,Europe & Central Asia,High income,81.54,79.45,80.11,73.35,78.61,21.39,Low Risk,47695.65
+United Kingdom,GBR,2022,Europe & Central Asia,High income,80.96,79.33,80.87,72.18,78.33,21.67,Low Risk,47034.78
+United Kingdom,GBR,2023,Europe & Central Asia,High income,77.7,78.83,79.92,72.19,77.16,22.84,Low Risk,49919.69
+United Kingdom,GBR,2024,Europe & Central Asia,High income,78.41,78.82,78.7,70.3,76.56,23.44,Low Risk,53341.31
+United States,USA,2013,North America,High income,71.75,79.37,76.8,75.79,75.93,24.07,Low Risk,53297.39
+United States,USA,2014,North America,High income,72.94,80.05,75.14,77.31,76.36,23.64,Low Risk,55153.39
+United States,USA,2015,North America,High income,72.89,80.66,75.24,77.27,76.52,23.48,Low Risk,56849.47
+United States,USA,2016,North America,High income,73.0,81.01,77.06,71.5,75.64,24.36,Low Risk,57976.63
+United States,USA,2017,North America,High income,74.29,79.68,78.66,67.78,75.1,24.9,Low Risk,60047.72
+United States,USA,2018,North America,High income,73.17,77.14,78.27,70.86,74.86,25.14,Low Risk,62875.67
+United States,USA,2019,North America,High income,71.58,76.3,76.43,66.83,72.78,27.22,Low Risk,65227.96
+United States,USA,2020,North America,High income,70.61,74.25,75.02,63.39,70.82,29.18,Low Risk,64465.3
+United States,USA,2021,North America,High income,70.62,74.66,77.96,63.74,71.74,28.26,Low Risk,71441.23
+United States,USA,2022,North America,High income,72.19,75.07,77.87,63.12,72.06,27.94,Low Risk,78008.69
+United States,USA,2023,North America,High income,72.05,73.5,77.43,62.6,71.39,28.61,Low Risk,82586.78
+United States,USA,2024,North America,High income,69.86,73.52,76.19,64.27,70.96,29.04,Low Risk,86169.66
