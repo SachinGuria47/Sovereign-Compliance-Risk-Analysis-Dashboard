@@ -1,4 +1,4 @@
-# Sovereign Compliance & Risk Analysis Dashboard sachin
+# Sovereign Compliance & Risk Analysis Dashboard 
 
 A simple guide to what this project measures, where the numbers come from, and how to read the results.
 
