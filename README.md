@@ -85,4 +85,4 @@ These are carried over from the original project scope.
 
 ## 8. Tools used
 
-World Bank DataBank for the source data. Python and pandas for cleaning. Excel and openpyxl for the dashboard, formulas, and charts.
+The data source was the World Bank DataBank, and Google Sheet was used to build the dashboard, along with its formulas and charts.
